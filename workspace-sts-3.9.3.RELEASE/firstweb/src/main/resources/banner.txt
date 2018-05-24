@@ -1,0 +1,3 @@
+tiaji.com.cn 
+v1.2太极学院
+${spring-boot.formatted-version}
